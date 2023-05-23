@@ -41,7 +41,7 @@ export const navigation: NavigationItem[] = [
     },
     {
       name: 'GitHub',
-      href: '#',
+      href: 'https://github.com/t-rupe/DigitalBusinessCard',
       icon: (props: React.SVGProps<SVGSVGElement>) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path
